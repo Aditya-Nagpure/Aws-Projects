@@ -1,5 +1,5 @@
 # Aws-Projects
-# Amazon Bestseller Data Visualization with Amazon QuickSight
+#1 Amazon Bestseller Data Visualization with Amazon QuickSight
 
 This project involves visualizing the Amazon Bestseller dataset using Amazon QuickSight. The dataset is stored in an S3 bucket and is visualized through a series of steps to create interactive and insightful dashboards.
 
